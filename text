@@ -1,0 +1,150 @@
+Thanks, everyone. Just to set the scene, we’ve already got the first piece of the Lumary work underway with APM and Jade, and we had a discovery session earlier with Harley where we walked through the participant flow across EI and ESA. 
+
+We’ve taken that and put together a view of what you think your future direction could look like. Today is really about playing it back to the wider group, checking we’ve got it right, and work out where Heidi is most useful to start.
+
+We’ll quickly cover the vision and the problems we heard, then spend most of the time going through the future flow stage by stage. If anything feels off, feel free to call it out.
+
+This is more of a workshop so there will be a lot of questions in both side. We want to design something that work for your teams with the fit with Lumary.
+
+We want to leave with the direction and first priority, then we can do the proper discussion and come back with a proposal.
+=== At the highest level, Heidi as APM’s AI care partner across the participant flow, so practitioners can spend more time on clinical care and less on admin.
+
+There are three principles behind it.
+
+The first is that Heidi sits across the participant flow, rather than in one isolated step. The aim is to stop each person rebuilding the same picture from scratch. Which I am going to show in the the upcoming slide, and understand where heidi fits with the stages around it.
+
+The second is that judgement stays with the practitioner. Heidi can suggest an action, draft a plan or flag a risk. The practitioner reviews it and approves it. Heidi is augmenting the workflow and clinical decisions holds accountable for practitioner.
+
+The third is build once for EI and ESA. The rules and plan content might differ slightly, but the core process should be shared where it makes sense. We’d like to test that assumption with you. If the businesses need different approaches, we need to understand where and why.
+
+If we get these principles right, the value should show up in practical ways. Practitioners walk into sessions prepared. The support pathway call relies less on one experienced admin. Families receive clear updates after each session. For APM, that should mean faster intake, more time for funded care and better continuity.
+
+That’s the vision we’re working from. Before we move into the problems, do these three principles feel right? Which one matters most, and where would you challenge our thinking?
+
+=== Let’s start with the workflow itself.
+
+We’ve grouped it into three phases: planning, delivery and outcomes, with seven stages from the support pathway through to end-of-plan review.
+
+This is the participant flow across EI and ESA as we’ve understood it from the discovery sessions.
+
+There are three phases. Yellow is planning, blue is delivery, and green is outcomes.
+
+Inside those, we’ve mapped seven stages. It starts with the support pathway at intake, then moves through the first appointment and plan setup, ongoing therapy, adjustments, participant updates, and end-of-plan review.
+
+Two things. We’ve drawn this the same for EI and ESA because we understand the flow is close enough to treat as one.
+
+We also know it doesn’t move in a straight line. An adjustment can send someone back into planning or rebooking.
+
+The next slide shows the problems we’ve heard. Before we go there, does this reflect how you see the flow? Is there anything you’d change?
+
+=== The length of each bar shows how far we think each issue carries across the flow. There are seven bars, but I want to focus on the top three.
+
+Fragmented tools sit across the full flow. Clinicians use several systems today, so the Lumary integration is the foundation. It cuts copy-pasting and supports the workflow I’m about to show. The first phase is a note-push integration, and Jade is already leading that work.
+
+Cognitive load appears at several stages. We heard the end-of-period report takes around an hour. Plans also get rebuilt by hand when participant needs, practitioner availability, or goals change.
+
+From what we’ve heard, unused participant funding is the core problem to solve. Harley and Justin, does that match what you’re seeing? Are any of these more or less important than we’ve shown?
+
+=== There’s a table behind this with more detail for each challenge. I’ll leave it on screen rather than read it out.
+
+I’ve kept the opportunity column faded because I want to confirm the problems first.
+
+That’s the current picture. Most of today will focus on where you want to get to.
+
+With that context, let’s look at the future workflow and test whether it reflects what APM is working towards.
+
+=== This is the biggest focus today. It’s our playback of where we think EI and ESA are heading, based on the discovery sessions with Harley.
+
+It’s laid out stage by stage, showing what each capability looks like and who it helps.
+
+What we need from you is to tell us where we’ve got your world wrong. Then we can agree which part needs fixing first.
+
+A quick word on the future state. It’s easy to read this as a Heidi build list, but it isn’t. It’s a direction. Some items already exist today, like Scribe and Evidence. Some don’t exist yet.
+
+We started with the future process you described, then mapped where Heidi fits. This slide has no committed scope or dates. I need you to tell me where we’ve misread it.
+
+The Lumary integration will be the starting point for much of this, and we’ll need more scoping.
+
+It’s a busy slide, so I’ll bring it up one part at a time. We’ll start with planning, then move to delivery and outcomes.
+
+Before I begin, is there anything you want to check?
+
+Let’s start where a participant first enters the flow.
+
+=== The first stage is the support pathway.
+
+What we heard is that admin takes the referral, captures the participant’s initial needs, then picks a practitioner mostly from experience and memory. Sometimes that lands well. Sometimes it doesn’t.
+
+In the future, EI and ESA pathway rules do the heavy lifting. The system suggests a practitioner based on clinical fit and availability, then admin reviews and confirms the choice.
+
+The point isn’t to remove admin. It’s to give them a good suggestion to approve, rather than asking them to decide from memory.
+
+Broadly, is that where you want intake to get to?
+
+Once that first practitioner is picked, the next question is whether the context follows the participant.
+
+Today’s process has gaps in clinician selection, handover, and what happens after the first consultation.
+
+=== The next two stages complete the planning phase.
+
+At the first appointment today, the practitioner searches through notes to work out who they’re seeing. That’s the cognitive load problem again.
+
+In the future, a pre-session summary is already there, with the intake context pulled into the session. The practitioner runs the assessment without retyping what admin already captured.
+
+=== Then we get to the plan.
+
+The ideal future process uses AI to draft a personalised and costed plan across the right disciplines, using your own guidelines and rules. The practitioner reviews it, makes any changes, and approves it. Admin then gets a suggested booking list.
+
+These stages are connected. What admin captures at intake makes the assessment useful. The assessment makes the plan useful. Wherever we start, we’ll need to understand what sits upstream.
+
+Some of you have tried this with Evidence and got close. The product wasn’t built for this process, so we’d want to scope the need and feasibility properly rather than bolt it on.
+
+Justin and Harley, is this the main focus? If it is, we’ll need a dedicated deep dive into the process, dependencies, and feasibility.
+
+=== Once a plan is agreed, the next problem is keeping it useful over 12 months.
+
+Delivery is where the plan has to hold up.
+
+This is a picture of the future, not a Heidi commitment. Everyone involved in the participant’s care works from the same plan, instead of rebuilding context from separate notes.
+
+=== When something changes, and it always does, the plan gets adjusted rather than rebuilt from scratch.
+
+When availability, goals, funding, or the care team changes, the plan gets adjusted rather than rebuilt from scratch.
+
+On funding, we understand that you want to catch underspend early. AI compares what the plan expected with what has happened, then flags the gap while there’s still time to act. I’ll be upfront, this is an idea to test, not a confirmed feature.
+
+=== After each session, the participant gets an update through the channel that suits them, such as email or SMS.
+
+=== At the end of the plan, the report is drafted from the year’s notes and goal progress using the funder’s template.
+
+The practitioner reviews and signs it, then the next plan starts.
+
+Where does continuity break most often today?
+
+Which adjustment has the greatest operational or financial impact?
+
+Who should act when a plan starts falling behind?
+
+=== Bringing it back together, from the support pathway through to review.
+
+The thread across the full flow is continuity. The participant’s context, plan and progress need to move with them across admin, practitioners and the wider care team.
+
+The Lumary integration underpins much of this.
+
+Here’s where we need your help.
+
+If this picture is roughly right, we need to agree the highest-priority outcome with you. Then we’ll work out what it depends on and come back with a realistic scope and sequence.
+
+Justin and Harley, I’d like to hear from you first. Of everything on this page, what’s the one thing you want in place first?
+
+What have we captured correctly?
+
+What have we missed or misunderstood?
+
+Which part is most urgent for the business?
+
+What needs to be true for that priority to work?
+
+How would you measure success?
+
+We’ll take today’s feedback, refine the workflow, and develop an initial delivery approach for you to consider. We’ll separate confirmed scope from areas that need more discovery.
